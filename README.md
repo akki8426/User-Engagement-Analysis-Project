@@ -1,4 +1,4 @@
-# Project:  User Engagement Analysis for Restaurant Success (Yelp Dataset)
+## 🍽️ Project:  User Engagement Analysis for Restaurant Success (Yelp Dataset)
 
 A deep-dive analytics project using real Yelp data to uncover how user engagement influences the success of restaurants in terms of ratings, review counts, and customer interaction.
 
